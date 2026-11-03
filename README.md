@@ -6,7 +6,7 @@ clinical genetics and oncology lab, owning systems end to end: database, server,
 
 Outside work I build with private AI, models that run on my own hardware, and interactive data visualization.
 
-**[My site](https://markmckellar.github.io)** · **[LinkedIn](https://www.linkedin.com/in/mark-mckellar-050749a6)**
+**[My site](https://markmckellar.github.io)** · **[LinkedIn](https://www.linkedin.com/in/mark-mckellar)**
 
 #### Projects
 

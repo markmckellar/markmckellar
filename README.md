@@ -12,7 +12,7 @@ Outside work I build with private AI, models that run on my own hardware, and in
 
 <img align="left" width="240" src="https://raw.githubusercontent.com/markmckellar/cmo/main/docs/images/raccoon-still.jpg" alt="A raccoon at the pet door at 2 am">
 
-**[Private AI home camera system](https://github.com/markmckellar/cmo)**<br>
+**[Private AI home camera system](https://github.com/markmckellar/cmo)** · [the story](https://markmckellar.github.io/raccoons/) · [how it works](https://markmckellar.github.io/raccoons/how-it-works/)<br>
 Home cameras whose clips are classified by a vision language model on my own GPU (person, cat, dog, raccoon),
 with phone alerts, smart-speaker announcements and a web app. About 900 AI checks a day, accuracy tested on
 hand-labeled clips, cost compared with paid AI services.<br>

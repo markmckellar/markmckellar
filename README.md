@@ -38,6 +38,17 @@ samples, a delivery pipeline, a day in the life from the American Time Use Surve
 
 <br clear="left">
 
+<img align="left" width="240" src="https://raw.githubusercontent.com/markmckellar/riffs_client_vue/main/public/favicon.svg" alt="The Riff Rivals icon: yellow music notes">
+
+**[Riff Rivals: hangman for your ears](https://github.com/markmckellar/riffs_client_vue)** · [play it](https://riffs.mckcode.com/)<br>
+A phone game for training your ear: one player writes a short riff, the other hears it and writes it down, and
+every wrong guess snaps a guitar string. Notes go in on staff paper, piano keys, guitar or bass fretboards, or the
+microphone. The phone makes all the sound, so the server stays tiny
+([server](https://github.com/markmckellar/riffs_server)).<br>
+`TypeScript` `Vue 3` `Web Audio` `Spring Boot`
+
+<br clear="left">
+
 The camera system's parts: [cmo_client](https://github.com/markmckellar/cmo_client) (camera software) ·
 [cmo_server](https://github.com/markmckellar/cmo_server) (Spring Boot server) ·
 [cmo_vue_client](https://github.com/markmckellar/cmo_vue_client) (web app)
